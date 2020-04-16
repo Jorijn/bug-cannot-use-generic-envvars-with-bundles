@@ -1,5 +1,5 @@
 # This is a repository to demonstrate a possible bug in Symfony. 
-If the developer uses a generic environment variable to configure two or more different bundles, the placeholder / valilogic breaks. Steps to reproduce:
+If the developer uses a generic environment variable to configure two or more different bundles, the placeholder / validation logic breaks. Steps to reproduce:
 
 ## Steps to reproduce
 1. Install this repository. I created two internal bundles to simulate external dependencies. 
