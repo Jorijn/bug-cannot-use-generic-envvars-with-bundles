@@ -1,0 +1,3 @@
+test_queue:
+  ttl:
+    default: "%env(int:GENERIC_TTL_VALUE)%"
